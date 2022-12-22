@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@100mslive/react-native-hms": "^1.1.0",
+    "@100mslive/react-native-hms": "1.1.1",
     "react": "17.0.1",
     "react-native": "0.64.4"
   },
